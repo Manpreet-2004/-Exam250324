@@ -1,0 +1,5 @@
+these ways to works on DIR command
+first, type dir and then press
+where we can found directory's files and subdirectories.
+[this is a link](https://www.geeksforgeeks.org/cmd-dir-command/)
+[this is a 2nd link](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/dir)
